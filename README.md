@@ -4,6 +4,6 @@ React Konva is a JavaScript library for drawing complex canvas graphics using [R
 
 # picture Demo
 
-![Demo](./asymmetric U-butt.png)
+![Demo](./img.png)
 
 **gitWeldShape**
